@@ -6,4 +6,4 @@ honestly there isn't any thing for you to use in here.
 
 ### licensing
 
-(this is the license)[LICENSE], use this repo accordingly
+[this is the license](LICENSE), use this repo accordingly
